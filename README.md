@@ -1,8 +1,6 @@
 # TowerDefenseEngine
 custom tower defense game engine built in Java Swing 
 
-# Java Tower Defense
-
 A custom tower defense game engine built from scratch using Java Swing. Features spatial partitioning optimization, JSON-configurable maps, and custom sprite artwork.
 
 ## Features
@@ -15,9 +13,6 @@ A custom tower defense game engine built from scratch using Java Swing. Features
 - Built-in map editor
 - Menu system with map selection
 
-## Screenshots
-[Add gameplay screenshots here]
-
 ## Getting Started
 
 ### Prerequisites
@@ -27,7 +22,7 @@ A custom tower defense game engine built from scratch using Java Swing. Features
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/YourUsername/JavaTowerDefense.git
+git clone https://github.com/wijjam/JavaTowerDefense.git
 ```
 2. Open the project in your preferred Java IDE
 3. Run Main.java to start the game
